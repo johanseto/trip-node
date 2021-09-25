@@ -37,5 +37,7 @@ delete_file(__dirname + '/file1.txt', console.log)
 
 
 //read(__dirname + '/file1.txt')
-write2(__dirname + '/file2.txt', 'I am a new file niiga', console.log)
-delete_file(__dirname + '/file2.txt', console.log)
+//write2(__dirname + '/file2.txt', 'I am a new file niiga', console.log)
+//delete_file(__dirname + '/file2.txt', console.log)
+
+//fs function return null when there was no problem.
