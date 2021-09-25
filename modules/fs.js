@@ -16,7 +16,7 @@ function delete_file(path, cb) {
 
 
 function write(path, content, cb) {
-    fs.writeFile(path, content, (err) => { //ASYNC
+    fs.writeFile(path, content, (err) => { //ASYNC, wait to response. oR is slower.
         if (err) {
             console.err("i cant write it,", error)
         } else {
