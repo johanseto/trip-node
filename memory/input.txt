@@ -1,0 +1,10 @@
+i 
+am 
+a
+file
+that
+is 
+going 
+to 
+be 
+read
