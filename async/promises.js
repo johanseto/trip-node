@@ -50,6 +50,6 @@ hi('Carlos')
     
     })
     .catch(error => {
-        console.log("Ha habido un error")
+        console.log("There was an  error")
         console.error(error)
     })
